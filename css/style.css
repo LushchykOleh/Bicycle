@@ -263,6 +263,7 @@ input {
 .twitter-inner{
   width: 100%;
   height: 469px;
+  background: #f7f7f7;
 }
 
 .twitter-logo{
@@ -281,6 +282,12 @@ input {
   padding: 25px 241px 174px 279px;
 }
 
+.twitter-inner .text-light{
+  font-size: 18px;
+  font-weight: 300;
+  text-transform: none;
+
+}
 .form{
   display: flex;
   align-items: center;
